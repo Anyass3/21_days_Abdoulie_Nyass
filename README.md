@@ -11,3 +11,8 @@ Model Classification
 ### Day 3
 model evaluation
 - confusion  matrix
+
+### Day 4
+- Precision
+- Recall
+- Precision & Recall Trade-off
