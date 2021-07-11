@@ -8,3 +8,6 @@ Model Classification
 ### Day 2
 - Build a Logistic Regression Model with Sklearn
 - made predictions with the model
+### Day 3
+model evaluation
+- confusion  matrix
