@@ -10,9 +10,17 @@ Model Classification
 - made predictions with the model
 ### Day 3
 model evaluation
-- confusion  matrix
+  - confusion  matrix
 
 ### Day 4
-- Precision
-- Recall
-- Precision & Recall Trade-off
+  - Precision
+  - Recall
+  - Precision & Recall Trade-off
+
+### Day 5
+  - f1 score
+ - now using sklearn metrics to calculate:
+  - precision
+  - recall
+  - f1 score
+  - confusion  matrix
