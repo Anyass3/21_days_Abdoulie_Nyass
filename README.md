@@ -24,3 +24,14 @@ model evaluation
   - recall
   - f1 score
   - confusion  matrix
+### day 6
+  -Training and Testing in Sklearn
+  
+      > using the **train_test_split** function will randomly put each datapoint in either the training set or the test set. 
+      
+      > By default the training set is 75% of the data and the test set is the remaining 25% of the data.
+
+   - Building a Scikit-learn Model Using a Training Set
+   - Using a Random State 
+
+          > To get the same split every time, we can use the random_state attribute. We choose an arbitrary number to give it, and then every time we run the code, we will get the same split
