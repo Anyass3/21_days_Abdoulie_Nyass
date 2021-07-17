@@ -25,7 +25,7 @@ model evaluation
   - f1 score
   - confusion  matrix
 ### day 6
-  -Training and Testing in Sklearn
+  - Training and Testing in Sklearn
   
       > using the **train_test_split** function will randomly put each datapoint in either the training set or the test set. 
       
