@@ -41,3 +41,6 @@ model evaluation
     - An ROC Curve is a graph of the **sensitivity** vs. the **specificity**
     - Sensitivity & Specificity in Scikit-learn
     - Adjusting the Logistic Regression Threshold in Sklearn
+### Day 8
+  - How to Build an ROC Curve
+  - ROC Curve Interpretation
