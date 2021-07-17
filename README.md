@@ -37,10 +37,10 @@ model evaluation
           > To get the same split every time, we can use the random_state attribute. We choose an arbitrary number to give it, and then every time we run the code, we will get the same split
 
 ### Day 7
-    - An ROC (Receiver operating characteristic) Curve
-    - An ROC Curve is a graph of the **sensitivity** vs. the **specificity**
-    - Sensitivity & Specificity in Scikit-learn
-    - Adjusting the Logistic Regression Threshold in Sklearn
+  - An ROC (Receiver operating characteristic) Curve
+  - An ROC Curve is a graph of the **sensitivity** vs. the **specificity**
+  - Sensitivity & Specificity in Scikit-learn
+  - Adjusting the Logistic Regression Threshold in Sklearn
 ### Day 8
   - How to Build an ROC Curve
   - ROC Curve Interpretation
