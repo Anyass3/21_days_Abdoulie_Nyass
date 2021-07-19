@@ -44,3 +44,7 @@ model evaluation
 ### Day 8
   - How to Build an ROC Curve
   - ROC Curve Interpretation
+### Day 9
+  - Picking a Model from the ROC Curve
+  - comparing two ROC curves
+  - started k-fold Cross Validation
