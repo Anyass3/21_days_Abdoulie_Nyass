@@ -48,3 +48,6 @@ model evaluation
   - Picking a Model from the ROC Curve
   - comparing two ROC curves
   - started k-fold Cross Validation
+### Day 10
+  - data preprossing normalization
+  - 
