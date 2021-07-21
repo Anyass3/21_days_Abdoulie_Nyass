@@ -50,4 +50,5 @@ model evaluation
   - started k-fold Cross Validation
 ### Day 10
   - data preprossing normalization
-  - 
+### Day 11
+  - preprocessing text data
