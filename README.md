@@ -52,3 +52,5 @@ model evaluation
   - data preprossing normalization
 ### Day 11
   - preprocessing text data
+### Day 12
+  - using naive_bayes and vectorizers
