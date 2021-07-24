@@ -54,3 +54,8 @@ model evaluation
   - preprocessing text data
 ### Day 12
   - using naive_bayes and vectorizers
+### Day 13
+  - TfidfVectorizers
+  - hash vectorizers
+  - bag of words
+  - n_gram vectorizers
