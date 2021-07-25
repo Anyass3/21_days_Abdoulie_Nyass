@@ -59,3 +59,8 @@ model evaluation
   - hash vectorizers
   - bag of words
   - n_gram vectorizers
+### Day 14
+  - built a product categorization model with naive_bayes and the day 13 vectorizers
+    got an accuracy btw 88 - 97 %
+    also used the confusion metrix to see how confused the model is
+    but it turns out it's not so cunfused.
