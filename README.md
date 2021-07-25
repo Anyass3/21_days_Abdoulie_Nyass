@@ -61,4 +61,4 @@ model evaluation
   > built a product categorization model with naive_bayes and the day 13 vectorizers
     got an accuracy btw 88 - 97 %
     also used the confusion metrix to see how confused the model is
-    but it turns out it's not so cunfused.
+    but it turns out it's not so cunfused. &#128515;
