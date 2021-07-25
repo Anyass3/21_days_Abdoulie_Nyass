@@ -26,15 +26,13 @@ model evaluation
   - confusion  matrix
 ### day 6
   - Training and Testing in Sklearn
-  
       > using the **train_test_split** function will randomly put each datapoint in either the training set or the test set. 
       
       > By default the training set is 75% of the data and the test set is the remaining 25% of the data.
 
    - Building a Scikit-learn Model Using a Training Set
    - Using a Random State 
-
-          > To get the same split every time, we can use the random_state attribute. We choose an arbitrary number to give it, and then every time we run the code, we will get the same split
+      > To get the same split every time, we can use the random_state attribute. We choose an arbitrary number to give it, and then every time we run the code, we will get the same split
 
 ### Day 7
   - An ROC (Receiver operating characteristic) Curve
@@ -60,7 +58,7 @@ model evaluation
   - bag of words
   - n_gram vectorizers
 ### Day 14
-  - built a product categorization model with naive_bayes and the day 13 vectorizers
+  > built a product categorization model with naive_bayes and the day 13 vectorizers
     got an accuracy btw 88 - 97 %
     also used the confusion metrix to see how confused the model is
     but it turns out it's not so cunfused.
