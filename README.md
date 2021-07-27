@@ -62,3 +62,5 @@ model evaluation
     got an accuracy btw 88 - 97 %
     also used the confusion metrix to see how confused the model is
     but it turns out it's not so cunfused. &#128515;
+### Day 15
+  > started preparing image data
