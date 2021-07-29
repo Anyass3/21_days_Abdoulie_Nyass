@@ -64,3 +64,7 @@ model evaluation
     but it turns out it's not so cunfused. &#128515;
 ### Day 15
   > started preparing image data
+### Day 16
+  > features and patches extraction from images
+
+
