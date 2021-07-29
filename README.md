@@ -69,3 +69,5 @@ model evaluation
 
 ### Day 17
   > using dictionary learning to denoise and reconstruct images
+### Day 18
+  > clustering image data using a pixel and gradient connectivity graph
