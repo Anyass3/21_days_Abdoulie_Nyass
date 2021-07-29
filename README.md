@@ -67,4 +67,5 @@ model evaluation
 ### Day 16
   > features and patches extraction from images
 
-
+### Day 17
+  > using dictionary learning to denoise and reconstruct images
