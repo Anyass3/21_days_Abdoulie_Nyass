@@ -75,3 +75,5 @@ model evaluation
   > model comparison
 ### Day 20
   > exploring datasets in sklearn
+### Day 21
+  > starting decision trees
