@@ -73,3 +73,5 @@ model evaluation
   > clustering image data using a pixel and gradient connectivity graph
 ### Day 19
   > model comparison
+### Day 20
+  > exploring datasets in sklearn
